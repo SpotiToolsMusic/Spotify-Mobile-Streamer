@@ -1,6 +1,12 @@
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
 [https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Spotify Mobile API Streamer
 Unlock the full potential of your music-streaming campaigns with a lightweight, API-driven powerhouse built for pros.
@@ -28,9 +34,15 @@ Unlock the full potential of your music-streaming campaigns with a lightweight, 
 
 https://github.com/user-attachments/assets/5063dc59-e26c-4ea2-a30a-a2043138e5bd
 
+## DISCORD [SPTOI TOOLS API]
+
+https://discord.gg/hxShyEEqqK
+
 ## Contact Me Via Telegram [@SpotiTools]
 
-[https://t.me/SpotiTools](https://t.me/SpotiTools))
+[https://t.me/SpotiTools](https://t.me/SpotiTools)
+
+## Disclaimer
 
 ## Disclaimer
 
